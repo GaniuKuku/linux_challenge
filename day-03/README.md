@@ -2,7 +2,7 @@
 
 ## Objective
 
-Learn how to efficiently inspect file contents and search for files within the Linux file system without overloading system memory.
+Learnt how to efficiently inspect file contents and search for files within the Linux file system without overloading system memory.
 
 ---
 
