@@ -1,0 +1,7 @@
+INFO: Pipeline started at 08:00
+INFO: Extracting data from source
+WARNING: Connection slow, retrying...
+ERROR: Data format mismatch in row 42
+INFO: Attempting transformation
+ERROR: Null value found in primary key
+INFO: Pipeline halted
