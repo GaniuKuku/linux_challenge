@@ -1,0 +1,4 @@
+transaction_id,amount,status
+1001,50000.00,CLEARED
+1002,1500.00,PENDING
+9999,99999.99,CLEARED
