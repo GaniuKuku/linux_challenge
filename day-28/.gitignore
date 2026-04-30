@@ -1,0 +1,8 @@
+# Ignore my secret database file
+database_passwords.txt
+
+# Ignore ANY file that ends in .key
+*.key
+
+# Ignore an entire folder of private stuff
+my_secret_vault/
